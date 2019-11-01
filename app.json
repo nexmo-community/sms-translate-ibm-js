@@ -1,0 +1,14 @@
+{
+  "name": "SMS Text Translation with Nexmo & IBM Watson",
+  "description": "Example using IBM Watson to translate SMS messages.",
+  "keywords": ["Translation", "sms", "nodejs", "IBM Watson", "nexmo"],
+  "website": "https://developer.nexmo.com/extend/ibm-watson-speech-to-text",
+  "repository": "https://github.com/nexmo-community/sms-sentiment-watson",
+  "env": {
+    "TRANSLATE_IAM_APIKEY": {
+      "description": "The API Key from IBM Language Translator Service"
+    },
+    "TRANSLATE_URL": {
+      "description": "The URL from IBM Language Translator Service",
+    }
+  }
